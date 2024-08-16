@@ -8,15 +8,24 @@
 
 .img-style {
     display: inline-block;
+    max-width: 100%;
+    height: auto;
 }
 
-.spider-man {
-    width: 100px;
-    max-width: 600px;
-    height: auto;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+.header-style {
+    margin-bottom: 20px;
+}
+
+.feats-style {
+    margin-top: 20px;
+}
+
+h1, h2, h3 {
+    margin: 10px 0;
+}
+
+p {
+    margin: 10px 0;
 }
 
 
